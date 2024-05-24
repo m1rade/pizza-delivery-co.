@@ -6,6 +6,7 @@ An ordering pizza website on React.
   <li>React Router</li>
   <li>Redux Toolkit</li>
   <li>Tailwind CSS</li>
+  <li>TypeScript</li>
 </ul>
 
 [Order pizza now!](https://pizza-delivery-m1rade.netlify.app/)
